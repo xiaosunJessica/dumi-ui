@@ -19,6 +19,9 @@ TODO
 # install dependencies
 $ yarn install
 
+# rollup build components
+$ yarn build:rollup
+
 # develop library by docs demo
 $ yarn start
 
